@@ -1,0 +1,54 @@
+[33mcommit cb039ae23a747c3aa9bbc42d6898d667c3fd1356[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1c5bacd 9e5509a
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Wed Nov 13 11:17:18 2024 +0530
+
+    jumk removed
+
+[33mcommit 1c5bacd9e43abb1a2fdcac76ad9a7df1c620c64c[m
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Wed Nov 13 11:13:17 2024 +0530
+
+    changed the variable name
+
+[33mcommit 9e5509acaed4d138a6d3f2d0d841a7874566431c[m
+Author: psubahan <148060067+psubahan@users.noreply.github.com>
+Date:   Wed Nov 13 11:11:40 2024 +0530
+
+    main method as added to Demo.java
+
+[33mcommit 4748eac313b6cdb11cfccd343bab5e62bb8f93be[m
+Author: psubahan <148060067+psubahan@users.noreply.github.com>
+Date:   Wed Nov 13 10:20:56 2024 +0530
+
+    Update Demo.java
+
+[33mcommit 1c5abb80ee0497939b5ca406bf886c5b640b3bcf[m
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Tue Nov 12 12:48:15 2024 +0530
+
+    add a variable in line 4 and updated the print statement
+
+[33mcommit e3840782a4e5ef4cdc042852d26485f60232018e[m
+Author: psubahan <148060067+psubahan@users.noreply.github.com>
+Date:   Tue Nov 12 12:44:07 2024 +0530
+
+    Update Demo.java
+
+[33mcommit c9651e1ccbb838546ab6b2d7286ebb1f32ba10c0[m
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Tue Nov 12 12:41:35 2024 +0530
+
+    updated the demo.java
+
+[33mcommit 815b8cbf639a8b40c3043986f0060ad59bb3fd77[m
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Tue Nov 12 11:59:59 2024 +0530
+
+    deno.java added
+
+[33mcommit 7111117cada460b097fc5fa6b5caa348c9fa26d2[m
+Author: subahan <subahanpulimaddi@gmail.com>
+Date:   Tue Nov 12 11:56:40 2024 +0530
+
+    first commit
